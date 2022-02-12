@@ -1,3 +1,5 @@
+# Muhammad Amin
+## Always try your best to be the best!
 - 👋 Hi, I’m @MuhammadAmin
 - 👀 I’m interested in cyber Security.
 - 🌱 I’m currently learning JavaScript.
